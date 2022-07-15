@@ -1,0 +1,5 @@
+## Dynamic configuration
+
+providers:
+  providersThrottleDuration: 10
+  docker: {}
